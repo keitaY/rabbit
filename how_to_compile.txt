@@ -1,0 +1,7 @@
+conpairu
+ javac -cp .:commons-io-1.2.jar:commons-cli-1.1.jar:rabbitmq-client.jar server.java
+
+
+tukautoki
+ java -cp .:commons-io-1.2.jar:commons-cli-1.1.jar:rabbitmq-client.jar server
+
